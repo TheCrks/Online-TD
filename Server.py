@@ -8,7 +8,7 @@ from Game import daireEnemy
 from Game import ucgenEnemy
 from Game import kareEnemy
 
-server = "10.58.7.131"
+server = "your ip adress here"
 port = 5555
 
 sockett = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
